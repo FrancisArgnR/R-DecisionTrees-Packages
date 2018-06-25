@@ -5,6 +5,8 @@
 ### rpart
 
 Examples: <br>
+https://gormanalysis.com/decision-trees-in-r-using-rpart/ <br>
+https://www.statmethods.net/advstats/cart.html <br>
 https://rpubs.com/jboscomendoza/arboles_decision_clasificacion <br>
 http://www.milbo.org/rpart-plot/prp.pdf <br>
 http://blog.revolutionanalytics.com/2013/06/plotting-classification-and-regression-trees-with-plotrpart.html <br>
@@ -14,6 +16,7 @@ https://cran.r-project.org/web/packages/rpart/rpart.pdf
 ### party
 
 Examples: <br>
+https://www.r-bloggers.com/package-party-conditional-inference-trees/ <br>
 https://www.datanalytics.com/libro_r/arboles-de-decision.html <br>
 https://www.rdocumentation.org/packages/party/versions/1.3-0/topics/Plot%20BinaryTree <br>
 CRAN pdf: <br>
