@@ -26,6 +26,7 @@ https://cran.r-project.org/web/packages/party/party.pdf
 
 Examples: <br>
 http://www.diegocalvo.es/arboles-de-clasificacion-en-r/ <br>
+http://connor-johnson.com/2014/08/29/decision-trees-in-r-using-the-c50-package/ <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/C50/C50.pdf
 
