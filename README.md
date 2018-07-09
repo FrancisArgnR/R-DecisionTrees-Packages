@@ -36,5 +36,6 @@ https://cran.r-project.org/web/packages/C50/C50.pdf
 
 Examples: <br>
 http://www.di.fc.ul.pt/~jpn/r/tree/tree.html <br>
+https://davetang.org/muse/2013/03/12/building-a-classification-tree-in-r/ <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/tree/tree.pdf
