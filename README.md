@@ -10,6 +10,7 @@ https://www.statmethods.net/advstats/cart.html <br>
 https://rpubs.com/jboscomendoza/arboles_decision_clasificacion <br>
 http://www.milbo.org/rpart-plot/prp.pdf <br>
 http://blog.revolutionanalytics.com/2013/06/plotting-classification-and-regression-trees-with-plotrpart.html <br>
+https://dzone.com/articles/decision-trees-and-pruning-in-r <br>
 http://www.di.fc.ul.pt/~jpn/r/tree/tree.html <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/rpart/rpart.pdf
@@ -29,6 +30,7 @@ https://cran.r-project.org/web/packages/party/party.pdf
 Examples: <br>
 http://www.diegocalvo.es/arboles-de-clasificacion-en-r/ <br>
 http://connor-johnson.com/2014/08/29/decision-trees-in-r-using-the-c50-package/ <br>
+https://topepo.github.io/C5.0/articles/C5.0.html <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/C50/C50.pdf
 
